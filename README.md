@@ -8,6 +8,8 @@ Algorithm: Random Forest, Logistic Regression
 Key Steps: Handle missing values → encode features → train → evaluate
 Result: ~82% accuracy
 
+https://github.com/codewithradhika86/CODSOFT/blob/00cf94216e4857f5ec8b5755e16ee0adfecaf90e/codsoft/Feature%20Importance.png.png
+
 
 2. 🎬 Movie Rating Prediction
 
